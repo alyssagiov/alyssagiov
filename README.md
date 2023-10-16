@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### I'm Alyssa Giovannangeli and I am a student at McMaster University.
 <!--
 **alyssagiov/alyssagiov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
