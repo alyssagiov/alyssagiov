@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am Alyssa Giovannangeli and I am a student at McMaster University.
+### I'm Alyssa Giovannangeli, a first year MSc student at McMaster University. I'm in the Memory, Attention, and Perception lab.
 <!--
 **alyssagiov/alyssagiov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
